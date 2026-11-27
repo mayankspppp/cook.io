@@ -1,0 +1,3062 @@
+[
+  {
+    "id": "masala-dosa",
+    "name": "Masala Dosa",
+    "description": "A home-cook-friendly indian breakfast with balanced, satisfying flavors. Ready in about 50 minutes.",
+    "image": "assets/images/spiced-curry.jpg",
+    "cuisine": "Indian",
+    "category": "Breakfast",
+    "dietary_type": "Vegetarian",
+    "prep_time": 25,
+    "cook_time": 25,
+    "total_time": 50,
+    "difficulty": "Moderate",
+    "servings": 4,
+    "ingredients": [
+      {
+        "amount": 1.5,
+        "unit": "cups",
+        "name": "dosa batter"
+      },
+      {
+        "amount": 2,
+        "unit": "pieces",
+        "name": "potatoes"
+      },
+      {
+        "amount": 0.5,
+        "unit": "cup",
+        "name": "onion"
+      },
+      {
+        "amount": 1,
+        "unit": "tsp",
+        "name": "mustard seeds"
+      },
+      {
+        "amount": 1,
+        "unit": "tbsp",
+        "name": "oil"
+      }
+    ],
+    "instructions": [
+      "Boil the potatoes until tender, then roughly mash them. Cook the onion and mustard seeds in a little oil, add the potatoes and seasonings, and keep the filling warm.",
+      "Heat a flat griddle and spread a ladle of dosa batter into a thin circle. Drizzle lightly with oil and cook until the bottom is crisp.",
+      "Spoon the potato filling down the centre, fold the dosa over it, and serve hot with chutney or sambar."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 310,
+      "protein_g": 8,
+      "carbohydrates_g": 52,
+      "fat_g": 8
+    },
+    "tags": [
+      "indian",
+      "breakfast",
+      "vegetarian",
+      "south indian",
+      "crispy"
+    ],
+    "popularity": 1000
+  },
+  {
+    "id": "vegetable-poha",
+    "name": "Vegetable Poha",
+    "description": "A home-cook-friendly indian breakfast with balanced, satisfying flavors. Ready in about 30 minutes.",
+    "image": "assets/images/breakfast-board.jpg",
+    "cuisine": "Indian",
+    "category": "Breakfast",
+    "dietary_type": "Vegan",
+    "prep_time": 15,
+    "cook_time": 15,
+    "total_time": 30,
+    "difficulty": "Easy",
+    "servings": 3,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": "cups",
+        "name": "thick poha"
+      },
+      {
+        "amount": 0.5,
+        "unit": "cup",
+        "name": "peas"
+      },
+      {
+        "amount": 0.5,
+        "unit": "cup",
+        "name": "onion"
+      },
+      {
+        "amount": 1,
+        "unit": "tbsp",
+        "name": "peanuts"
+      },
+      {
+        "amount": 1,
+        "unit": "tbsp",
+        "name": "lemon juice"
+      }
+    ],
+    "instructions": [
+      "Prepare and measure the ingredients; rinse grains or legumes and chop the vegetables.",
+      "Warm oil in a heavy pan over medium heat. Cook the aromatics and spices first, add the main ingredients with a splash of water, and cook until tender and fragrant.",
+      "Taste and adjust the seasoning. Finish with fresh herbs or lemon, then serve warm."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 260,
+      "protein_g": 6,
+      "carbohydrates_g": 43,
+      "fat_g": 7
+    },
+    "tags": [
+      "indian",
+      "breakfast",
+      "vegan",
+      "quick",
+      "gluten-free"
+    ],
+    "popularity": 990
+  },
+  {
+    "id": "chana-masala",
+    "name": "Chana Masala",
+    "description": "A home-cook-friendly indian dinner with balanced, satisfying flavors. Ready in about 50 minutes.",
+    "image": "assets/images/spiced-curry.jpg",
+    "cuisine": "Indian",
+    "category": "Dinner",
+    "dietary_type": "Vegan",
+    "prep_time": 15,
+    "cook_time": 35,
+    "total_time": 50,
+    "difficulty": "Moderate",
+    "servings": 4,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": "cups",
+        "name": "cooked chickpeas"
+      },
+      {
+        "amount": 1,
+        "unit": "cup",
+        "name": "tomatoes"
+      },
+      {
+        "amount": 0.5,
+        "unit": "cup",
+        "name": "onion"
+      },
+      {
+        "amount": 1,
+        "unit": "tbsp",
+        "name": "ginger garlic paste"
+      },
+      {
+        "amount": 1,
+        "unit": "tsp",
+        "name": "garam masala"
+      }
+    ],
+    "instructions": [
+      "Rinse, drain, and prepare the ingredients. Measure the spices and keep the garnish separate.",
+      "Soften the aromatics in oil, stir in the spices and main ingredients, then add stock or water. Simmer gently until everything is cooked through and the sauce is flavorful.",
+      "Taste, adjust salt and acidity, and finish with the listed herbs or garnish before serving."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 330,
+      "protein_g": 14,
+      "carbohydrates_g": 49,
+      "fat_g": 9
+    },
+    "tags": [
+      "indian",
+      "dinner",
+      "vegan",
+      "high-fiber",
+      "weeknight"
+    ],
+    "popularity": 980
+  },
+  {
+    "id": "paneer-tikka",
+    "name": "Paneer Tikka",
+    "description": "A home-cook-friendly indian snack with balanced, satisfying flavors. Ready in about 35 minutes.",
+    "image": "assets/images/grilled-plate.jpg",
+    "cuisine": "Indian",
+    "category": "Snack",
+    "dietary_type": "Vegetarian",
+    "prep_time": 20,
+    "cook_time": 15,
+    "total_time": 35,
+    "difficulty": "Moderate",
+    "servings": 4,
+    "ingredients": [
+      {
+        "amount": 400,
+        "unit": "g",
+        "name": "paneer"
+      },
+      {
+        "amount": 0.75,
+        "unit": "cup",
+        "name": "plain yogurt"
+      },
+      {
+        "amount": 1,
+        "unit": "piece",
+        "name": "bell pepper"
+      },
+      {
+        "amount": 1,
+        "unit": "tsp",
+        "name": "tikka masala"
+      },
+      {
+        "amount": 1,
+        "unit": "tbsp",
+        "name": "lemon juice"
+      }
+    ],
+    "instructions": [
+      "Prepare the ingredients and mix the oil, seasonings, and any marinade together.",
+      "Heat a grill or ridged pan to medium-high. Cook the ingredients in a single layer, turning as needed, until browned and fully cooked.",
+      "Rest briefly, finish with the fresh garnish or sauce, and serve warm."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 290,
+      "protein_g": 18,
+      "carbohydrates_g": 12,
+      "fat_g": 19
+    },
+    "tags": [
+      "indian",
+      "snack",
+      "vegetarian",
+      "protein-rich",
+      "party"
+    ],
+    "popularity": 970
+  },
+  {
+    "id": "dal-tadka",
+    "name": "Dal Tadka",
+    "description": "A home-cook-friendly indian dinner with balanced, satisfying flavors. Ready in about 45 minutes.",
+    "image": "assets/images/spiced-curry.jpg",
+    "cuisine": "Indian",
+    "category": "Dinner",
+    "dietary_type": "Vegan",
+    "prep_time": 10,
+    "cook_time": 35,
+    "total_time": 45,
+    "difficulty": "Moderate",
+    "servings": 4,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": "cup",
+        "name": "yellow lentils"
+      },
+      {
+        "amount": 1,
+        "unit": "piece",
+        "name": "tomato"
+      },
+      {
+        "amount": 0.5,
+        "unit": "cup",
+        "name": "onion"
+      },
+      {
+        "amount": 1,
+        "unit": "tsp",
+        "name": "cumin seeds"
+      },
+      {
+        "amount": 1,
+        "unit": "tbsp",
+        "name": "oil"
+      }
+    ],
+    "instructions": [
+      "Rinse, drain, and prepare the ingredients. Measure the spices and keep the garnish separate.",
+      "Soften the aromatics in oil, stir in the spices and main ingredients, then add stock or water. Simmer gently until everything is cooked through and the sauce is flavorful.",
+      "Taste, adjust salt and acidity, and finish with the listed herbs or garnish before serving."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 280,
+      "protein_g": 16,
+      "carbohydrates_g": 40,
+      "fat_g": 6
+    },
+    "tags": [
+      "indian",
+      "dinner",
+      "vegan",
+      "comfort food",
+      "high-fiber"
+    ],
+    "popularity": 960
+  },
+  {
+    "id": "chicken-tikka-masala",
+    "name": "Chicken Tikka Masala",
+    "description": "A home-cook-friendly indian dinner with balanced, satisfying flavors. Ready in about 60 minutes.",
+    "image": "assets/images/spiced-curry.jpg",
+    "cuisine": "Indian",
+    "category": "Dinner",
+    "dietary_type": "Non-vegetarian",
+    "prep_time": 25,
+    "cook_time": 35,
+    "total_time": 60,
+    "difficulty": "Moderate",
+    "servings": 4,
+    "ingredients": [
+      {
+        "amount": 500,
+        "unit": "g",
+        "name": "chicken breast"
+      },
+      {
+        "amount": 0.75,
+        "unit": "cup",
+        "name": "plain yogurt"
+      },
+      {
+        "amount": 1,
+        "unit": "cup",
+        "name": "tomatoes"
+      },
+      {
+        "amount": 0.5,
+        "unit": "cup",
+        "name": "cream"
+      },
+      {
+        "amount": 1,
+        "unit": "tbsp",
+        "name": "garam masala"
+      }
+    ],
+    "instructions": [
+      "Rinse, drain, and prepare the ingredients. Measure the spices and keep the garnish separate.",
+      "Soften the aromatics in oil, stir in the spices and main ingredients, then add stock or water. Simmer gently until everything is cooked through and the sauce is flavorful.",
+      "Taste, adjust salt and acidity, and finish with the listed herbs or garnish before serving."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 460,
+      "protein_g": 36,
+      "carbohydrates_g": 20,
+      "fat_g": 25
+    },
+    "tags": [
+      "indian",
+      "dinner",
+      "non-vegetarian",
+      "popular",
+      "protein-rich"
+    ],
+    "popularity": 950
+  },
+  {
+    "id": "palak-paneer",
+    "name": "Palak Paneer",
+    "description": "A home-cook-friendly indian dinner with balanced, satisfying flavors. Ready in about 40 minutes.",
+    "image": "assets/images/spiced-curry.jpg",
+    "cuisine": "Indian",
+    "category": "Dinner",
+    "dietary_type": "Vegetarian",
+    "prep_time": 15,
+    "cook_time": 25,
+    "total_time": 40,
+    "difficulty": "Moderate",
+    "servings": 4,
+    "ingredients": [
+      {
+        "amount": 400,
+        "unit": "g",
+        "name": "paneer"
+      },
+      {
+        "amount": 4,
+        "unit": "cups",
+        "name": "spinach"
+      },
+      {
+        "amount": 0.5,
+        "unit": "cup",
+        "name": "onion"
+      },
+      {
+        "amount": 1,
+        "unit": "piece",
+        "name": "tomato"
+      },
+      {
+        "amount": 0.25,
+        "unit": "cup",
+        "name": "cream"
+      }
+    ],
+    "instructions": [
+      "Prepare and measure the ingredients; rinse grains or legumes and chop the vegetables.",
+      "Warm oil in a heavy pan over medium heat. Cook the aromatics and spices first, add the main ingredients with a splash of water, and cook until tender and fragrant.",
+      "Taste and adjust the seasoning. Finish with fresh herbs or lemon, then serve warm."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 350,
+      "protein_g": 19,
+      "carbohydrates_g": 20,
+      "fat_g": 22
+    },
+    "tags": [
+      "indian",
+      "dinner",
+      "vegetarian",
+      "spinach",
+      "comfort food"
+    ],
+    "popularity": 940
+  },
+  {
+    "id": "vegetable-biryani",
+    "name": "Vegetable Biryani",
+    "description": "A home-cook-friendly indian dinner with balanced, satisfying flavors. Ready in about 60 minutes.",
+    "image": "assets/images/harvest-bowl.jpg",
+    "cuisine": "Indian",
+    "category": "Dinner",
+    "dietary_type": "Vegan",
+    "prep_time": 25,
+    "cook_time": 35,
+    "total_time": 60,
+    "difficulty": "Moderate",
+    "servings": 5,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": "cups",
+        "name": "basmati rice"
+      },
+      {
+        "amount": 2,
+        "unit": "cups",
+        "name": "mixed vegetables"
+      },
+      {
+        "amount": 0.75,
+        "unit": "cup",
+        "name": "onion"
+      },
+      {
+        "amount": 1,
+        "unit": "tbsp",
+        "name": "biryani masala"
+      },
+      {
+        "amount": 0.25,
+        "unit": "cup",
+        "name": "cashews"
+      }
+    ],
+    "instructions": [
+      "Prepare and measure the ingredients; rinse grains or legumes and chop the vegetables.",
+      "Warm oil in a heavy pan over medium heat. Cook the aromatics and spices first, add the main ingredients with a splash of water, and cook until tender and fragrant.",
+      "Taste and adjust the seasoning. Finish with fresh herbs or lemon, then serve warm."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 390,
+      "protein_g": 9,
+      "carbohydrates_g": 68,
+      "fat_g": 9
+    },
+    "tags": [
+      "indian",
+      "dinner",
+      "vegan",
+      "one-pot",
+      "celebration"
+    ],
+    "popularity": 930
+  },
+  {
+    "id": "aloo-gobi",
+    "name": "Aloo Gobi",
+    "description": "A home-cook-friendly indian lunch with balanced, satisfying flavors. Ready in about 45 minutes.",
+    "image": "assets/images/spiced-curry.jpg",
+    "cuisine": "Indian",
+    "category": "Lunch",
+    "dietary_type": "Vegan",
+    "prep_time": 15,
+    "cook_time": 30,
+    "total_time": 45,
+    "difficulty": "Moderate",
+    "servings": 4,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": "pieces",
+        "name": "potatoes"
+      },
+      {
+        "amount": 1,
+        "unit": "head",
+        "name": "cauliflower"
+      },
+      {
+        "amount": 1,
+        "unit": "piece",
+        "name": "tomato"
+      },
+      {
+        "amount": 1,
+        "unit": "tsp",
+        "name": "turmeric"
+      },
+      {
+        "amount": 1,
+        "unit": "tbsp",
+        "name": "oil"
+      }
+    ],
+    "instructions": [
+      "Prepare and measure the ingredients; rinse grains or legumes and chop the vegetables.",
+      "Warm oil in a heavy pan over medium heat. Cook the aromatics and spices first, add the main ingredients with a splash of water, and cook until tender and fragrant.",
+      "Taste and adjust the seasoning. Finish with fresh herbs or lemon, then serve warm."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 250,
+      "protein_g": 7,
+      "carbohydrates_g": 37,
+      "fat_g": 8
+    },
+    "tags": [
+      "indian",
+      "lunch",
+      "vegan",
+      "gluten-free",
+      "weeknight"
+    ],
+    "popularity": 920
+  },
+  {
+    "id": "rajma-masala",
+    "name": "Rajma Masala",
+    "description": "A home-cook-friendly indian dinner with balanced, satisfying flavors. Ready in about 55 minutes.",
+    "image": "assets/images/spiced-curry.jpg",
+    "cuisine": "Indian",
+    "category": "Dinner",
+    "dietary_type": "Vegan",
+    "prep_time": 15,
+    "cook_time": 40,
+    "total_time": 55,
+    "difficulty": "Moderate",
+    "servings": 4,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": "cups",
+        "name": "cooked kidney beans"
+      },
+      {
+        "amount": 1,
+        "unit": "cup",
+        "name": "tomatoes"
+      },
+      {
+        "amount": 0.5,
+        "unit": "cup",
+        "name": "onion"
+      },
+      {
+        "amount": 1,
+        "unit": "tsp",
+        "name": "cumin"
+      },
+      {
+        "amount": 1,
+        "unit": "tbsp",
+        "name": "oil"
+      }
+    ],
+    "instructions": [
+      "Rinse, drain, and prepare the ingredients. Measure the spices and keep the garnish separate.",
+      "Soften the aromatics in oil, stir in the spices and main ingredients, then add stock or water. Simmer gently until everything is cooked through and the sauce is flavorful.",
+      "Taste, adjust salt and acidity, and finish with the listed herbs or garnish before serving."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 360,
+      "protein_g": 17,
+      "carbohydrates_g": 58,
+      "fat_g": 7
+    },
+    "tags": [
+      "indian",
+      "dinner",
+      "vegan",
+      "high-fiber",
+      "meal prep"
+    ],
+    "popularity": 910
+  },
+  {
+    "id": "idli-sambar",
+    "name": "Idli with Sambar",
+    "description": "A home-cook-friendly indian breakfast with balanced, satisfying flavors. Ready in about 45 minutes.",
+    "image": "assets/images/breakfast-board.jpg",
+    "cuisine": "Indian",
+    "category": "Breakfast",
+    "dietary_type": "Vegan",
+    "prep_time": 20,
+    "cook_time": 25,
+    "total_time": 45,
+    "difficulty": "Moderate",
+    "servings": 4,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": "cups",
+        "name": "idli batter"
+      },
+      {
+        "amount": 1,
+        "unit": "cup",
+        "name": "toor dal"
+      },
+      {
+        "amount": 1,
+        "unit": "cup",
+        "name": "mixed vegetables"
+      },
+      {
+        "amount": 1,
+        "unit": "tbsp",
+        "name": "sambar powder"
+      },
+      {
+        "amount": 1,
+        "unit": "tsp",
+        "name": "mustard seeds"
+      }
+    ],
+    "instructions": [
+      "Pour the idli batter into greased moulds. Steam until the idlis are set and a skewer comes out clean.",
+      "Cook the lentils until soft. Simmer them with the vegetables, sambar powder, and water until the vegetables are tender; finish with a simple mustard-seed tempering.",
+      "Serve the warm idlis with the sambar, adjusting its consistency with hot water if needed."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 300,
+      "protein_g": 11,
+      "carbohydrates_g": 55,
+      "fat_g": 4
+    },
+    "tags": [
+      "indian",
+      "breakfast",
+      "vegan",
+      "south indian",
+      "steamed"
+    ],
+    "popularity": 900
+  },
+  {
+    "id": "lemon-rice",
+    "name": "South Indian Lemon Rice",
+    "description": "A home-cook-friendly indian lunch with balanced, satisfying flavors. Ready in about 25 minutes.",
+    "image": "assets/images/harvest-bowl.jpg",
+    "cuisine": "Indian",
+    "category": "Lunch",
+    "dietary_type": "Vegan",
+    "prep_time": 10,
+    "cook_time": 15,
+    "total_time": 25,
+    "difficulty": "Easy",
+    "servings": 4,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": "cups",
+        "name": "cooked rice"
+      },
+      {
+        "amount": 2,
+        "unit": "tbsp",
+        "name": "lemon juice"
+      },
+      {
+        "amount": 2,
+        "unit": "tbsp",
+        "name": "peanuts"
+      },
+      {
+        "amount": 1,
+        "unit": "tsp",
+        "name": "mustard seeds"
+      },
+      {
+        "amount": 0.25,
+        "unit": "tsp",
+        "name": "turmeric"
+      }
+    ],
+    "instructions": [
+      "Prepare and measure the ingredients; rinse grains or legumes and chop the vegetables.",
+      "Warm oil in a heavy pan over medium heat. Cook the aromatics and spices first, add the main ingredients with a splash of water, and cook until tender and fragrant.",
+      "Taste and adjust the seasoning. Finish with fresh herbs or lemon, then serve warm."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 290,
+      "protein_g": 6,
+      "carbohydrates_g": 51,
+      "fat_g": 8
+    },
+    "tags": [
+      "indian",
+      "lunch",
+      "vegan",
+      "quick",
+      "gluten-free"
+    ],
+    "popularity": 890
+  },
+  {
+    "id": "tandoori-salmon",
+    "name": "Tandoori Salmon",
+    "description": "A home-cook-friendly indian dinner with balanced, satisfying flavors. Ready in about 35 minutes.",
+    "image": "assets/images/grilled-plate.jpg",
+    "cuisine": "Indian",
+    "category": "Dinner",
+    "dietary_type": "Pescatarian",
+    "prep_time": 20,
+    "cook_time": 15,
+    "total_time": 35,
+    "difficulty": "Moderate",
+    "servings": 4,
+    "ingredients": [
+      {
+        "amount": 4,
+        "unit": "pieces",
+        "name": "salmon fillets"
+      },
+      {
+        "amount": 0.5,
+        "unit": "cup",
+        "name": "plain yogurt"
+      },
+      {
+        "amount": 1,
+        "unit": "tbsp",
+        "name": "tandoori masala"
+      },
+      {
+        "amount": 1,
+        "unit": "tbsp",
+        "name": "lemon juice"
+      },
+      {
+        "amount": 1,
+        "unit": "tbsp",
+        "name": "oil"
+      }
+    ],
+    "instructions": [
+      "Prepare the ingredients and mix the oil, seasonings, and any marinade together.",
+      "Heat a grill or ridged pan to medium-high. Cook the ingredients in a single layer, turning as needed, until browned and fully cooked.",
+      "Rest briefly, finish with the fresh garnish or sauce, and serve warm."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 410,
+      "protein_g": 38,
+      "carbohydrates_g": 12,
+      "fat_g": 23
+    },
+    "tags": [
+      "indian",
+      "dinner",
+      "pescatarian",
+      "omega-3",
+      "protein-rich"
+    ],
+    "popularity": 880
+  },
+  {
+    "id": "tomato-basil-pasta",
+    "name": "Tomato Basil Pasta",
+    "description": "A home-cook-friendly italian dinner with balanced, satisfying flavors. Ready in about 30 minutes.",
+    "image": "assets/images/pasta-bowl.jpg",
+    "cuisine": "Italian",
+    "category": "Dinner",
+    "dietary_type": "Vegetarian",
+    "prep_time": 10,
+    "cook_time": 20,
+    "total_time": 30,
+    "difficulty": "Easy",
+    "servings": 4,
+    "ingredients": [
+      {
+        "amount": 300,
+        "unit": "g",
+        "name": "penne pasta"
+      },
+      {
+        "amount": 2,
+        "unit": "cups",
+        "name": "cherry tomatoes"
+      },
+      {
+        "amount": 2,
+        "unit": "tbsp",
+        "name": "olive oil"
+      },
+      {
+        "amount": 0.5,
+        "unit": "cup",
+        "name": "fresh basil"
+      },
+      {
+        "amount": 0.25,
+        "unit": "cup",
+        "name": "parmesan"
+      }
+    ],
+    "instructions": [
+      "Prepare and measure the ingredients; rinse grains or legumes and chop the vegetables.",
+      "Warm oil in a heavy pan over medium heat. Cook the aromatics and spices first, add the main ingredients with a splash of water, and cook until tender and fragrant.",
+      "Taste and adjust the seasoning. Finish with fresh herbs or lemon, then serve warm."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 420,
+      "protein_g": 14,
+      "carbohydrates_g": 68,
+      "fat_g": 11
+    },
+    "tags": [
+      "italian",
+      "dinner",
+      "vegetarian",
+      "weeknight",
+      "comfort food"
+    ],
+    "popularity": 870
+  },
+  {
+    "id": "mushroom-risotto",
+    "name": "Creamy Mushroom Risotto",
+    "description": "A home-cook-friendly italian dinner with balanced, satisfying flavors. Ready in about 50 minutes.",
+    "image": "assets/images/pasta-bowl.jpg",
+    "cuisine": "Italian",
+    "category": "Dinner",
+    "dietary_type": "Vegetarian",
+    "prep_time": 15,
+    "cook_time": 35,
+    "total_time": 50,
+    "difficulty": "Moderate",
+    "servings": 4,
+    "ingredients": [
+      {
+        "amount": 1.5,
+        "unit": "cups",
+        "name": "arborio rice"
+      },
+      {
+        "amount": 250,
+        "unit": "g",
+        "name": "mushrooms"
+      },
+      {
+        "amount": 4,
+        "unit": "cups",
+        "name": "vegetable stock"
+      },
+      {
+        "amount": 0.5,
+        "unit": "cup",
+        "name": "parmesan"
+      },
+      {
+        "amount": 1,
+        "unit": "tbsp",
+        "name": "butter"
+      }
+    ],
+    "instructions": [
+      "Prepare and measure the ingredients; rinse grains or legumes and chop the vegetables.",
+      "Warm oil in a heavy pan over medium heat. Cook the aromatics and spices first, add the main ingredients with a splash of water, and cook until tender and fragrant.",
+      "Taste and adjust the seasoning. Finish with fresh herbs or lemon, then serve warm."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 440,
+      "protein_g": 13,
+      "carbohydrates_g": 61,
+      "fat_g": 16
+    },
+    "tags": [
+      "italian",
+      "dinner",
+      "vegetarian",
+      "comfort food",
+      "one-pot"
+    ],
+    "popularity": 860
+  },
+  {
+    "id": "margherita-pizza",
+    "name": "Margherita Pizza",
+    "description": "A home-cook-friendly italian dinner with balanced, satisfying flavors. Ready in about 35 minutes.",
+    "image": "assets/images/wood-fired-pizza.jpg",
+    "cuisine": "Italian",
+    "category": "Dinner",
+    "dietary_type": "Vegetarian",
+    "prep_time": 20,
+    "cook_time": 15,
+    "total_time": 35,
+    "difficulty": "Moderate",
+    "servings": 4,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": "piece",
+        "name": "pizza dough"
+      },
+      {
+        "amount": 0.75,
+        "unit": "cup",
+        "name": "tomato sauce"
+      },
+      {
+        "amount": 200,
+        "unit": "g",
+        "name": "mozzarella"
+      },
+      {
+        "amount": 0.5,
+        "unit": "cup",
+        "name": "fresh basil"
+      },
+      {
+        "amount": 1,
+        "unit": "tbsp",
+        "name": "olive oil"
+      }
+    ],
+    "instructions": [
+      "Heat the oven and a heavy tray or pizza stone to its highest setting. Stretch the dough into a thin round.",
+      "Spread a thin layer of tomato sauce over the dough, add mozzarella, and bake until the crust is puffed and browned.",
+      "Scatter over fresh basil, drizzle with olive oil, and slice while hot."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 380,
+      "protein_g": 17,
+      "carbohydrates_g": 48,
+      "fat_g": 13
+    },
+    "tags": [
+      "italian",
+      "dinner",
+      "vegetarian",
+      "family favorite",
+      "baked"
+    ],
+    "popularity": 850
+  },
+  {
+    "id": "minestrone-soup",
+    "name": "Rustic Minestrone Soup",
+    "description": "A home-cook-friendly italian lunch with balanced, satisfying flavors. Ready in about 50 minutes.",
+    "image": "assets/images/hearty-soup.jpg",
+    "cuisine": "Italian",
+    "category": "Lunch",
+    "dietary_type": "Vegan",
+    "prep_time": 15,
+    "cook_time": 35,
+    "total_time": 50,
+    "difficulty": "Moderate",
+    "servings": 5,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": "cup",
+        "name": "white beans"
+      },
+      {
+        "amount": 1,
+        "unit": "cup",
+        "name": "small pasta"
+      },
+      {
+        "amount": 1,
+        "unit": "piece",
+        "name": "carrot"
+      },
+      {
+        "amount": 1,
+        "unit": "piece",
+        "name": "zucchini"
+      },
+      {
+        "amount": 4,
+        "unit": "cups",
+        "name": "vegetable stock"
+      }
+    ],
+    "instructions": [
+      "Rinse, drain, and prepare the ingredients. Measure the spices and keep the garnish separate.",
+      "Soften the aromatics in oil, stir in the spices and main ingredients, then add stock or water. Simmer gently until everything is cooked through and the sauce is flavorful.",
+      "Taste, adjust salt and acidity, and finish with the listed herbs or garnish before serving."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 240,
+      "protein_g": 11,
+      "carbohydrates_g": 42,
+      "fat_g": 4
+    },
+    "tags": [
+      "italian",
+      "lunch",
+      "vegan",
+      "high-fiber",
+      "one-pot"
+    ],
+    "popularity": 840
+  },
+  {
+    "id": "caprese-salad",
+    "name": "Caprese Salad",
+    "description": "A home-cook-friendly italian lunch with balanced, satisfying flavors. Ready in about 15 minutes.",
+    "image": "assets/images/fresh-salad.jpg",
+    "cuisine": "Italian",
+    "category": "Lunch",
+    "dietary_type": "Vegetarian",
+    "prep_time": 15,
+    "cook_time": 0,
+    "total_time": 15,
+    "difficulty": "Easy",
+    "servings": 2,
+    "ingredients": [
+      {
+        "amount": 3,
+        "unit": "pieces",
+        "name": "ripe tomatoes"
+      },
+      {
+        "amount": 200,
+        "unit": "g",
+        "name": "fresh mozzarella"
+      },
+      {
+        "amount": 0.5,
+        "unit": "cup",
+        "name": "fresh basil"
+      },
+      {
+        "amount": 1,
+        "unit": "tbsp",
+        "name": "olive oil"
+      },
+      {
+        "amount": 1,
+        "unit": "tsp",
+        "name": "balsamic glaze"
+      }
+    ],
+    "instructions": [
+      "Rinse and chop the produce. Cook any grains or other ingredients according to their package directions and let them drain well.",
+      "Prepare the dressing or sauce, then layer the cooked ingredients and fresh toppings in serving bowls or plates.",
+      "Season to taste, spoon over the sauce, and serve while the warm ingredients are still hot."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 310,
+      "protein_g": 18,
+      "carbohydrates_g": 12,
+      "fat_g": 22
+    },
+    "tags": [
+      "italian",
+      "lunch",
+      "vegetarian",
+      "no-cook",
+      "summer"
+    ],
+    "popularity": 830
+  },
+  {
+    "id": "black-bean-tacos",
+    "name": "Smoky Black Bean Tacos",
+    "description": "A home-cook-friendly mexican dinner with balanced, satisfying flavors. Ready in about 30 minutes.",
+    "image": "assets/images/harvest-bowl.jpg",
+    "cuisine": "Mexican",
+    "category": "Dinner",
+    "dietary_type": "Vegan",
+    "prep_time": 15,
+    "cook_time": 15,
+    "total_time": 30,
+    "difficulty": "Easy",
+    "servings": 4,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": "cups",
+        "name": "black beans"
+      },
+      {
+        "amount": 8,
+        "unit": "pieces",
+        "name": "corn tortillas"
+      },
+      {
+        "amount": 1,
+        "unit": "piece",
+        "name": "avocado"
+      },
+      {
+        "amount": 1,
+        "unit": "cup",
+        "name": "salsa"
+      },
+      {
+        "amount": 1,
+        "unit": "tsp",
+        "name": "smoked paprika"
+      }
+    ],
+    "instructions": [
+      "Prepare and measure the ingredients; rinse grains or legumes and chop the vegetables.",
+      "Warm oil in a heavy pan over medium heat. Cook the aromatics and spices first, add the main ingredients with a splash of water, and cook until tender and fragrant.",
+      "Taste and adjust the seasoning. Finish with fresh herbs or lemon, then serve warm."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 340,
+      "protein_g": 14,
+      "carbohydrates_g": 55,
+      "fat_g": 8
+    },
+    "tags": [
+      "mexican",
+      "dinner",
+      "vegan",
+      "plant-based",
+      "quick"
+    ],
+    "popularity": 820
+  },
+  {
+    "id": "chicken-fajita-bowl",
+    "name": "Chicken Fajita Bowl",
+    "description": "A home-cook-friendly mexican lunch with balanced, satisfying flavors. Ready in about 40 minutes.",
+    "image": "assets/images/harvest-bowl.jpg",
+    "cuisine": "Mexican",
+    "category": "Lunch",
+    "dietary_type": "Non-vegetarian",
+    "prep_time": 20,
+    "cook_time": 20,
+    "total_time": 40,
+    "difficulty": "Moderate",
+    "servings": 4,
+    "ingredients": [
+      {
+        "amount": 450,
+        "unit": "g",
+        "name": "chicken breast"
+      },
+      {
+        "amount": 2,
+        "unit": "cups",
+        "name": "cooked rice"
+      },
+      {
+        "amount": 2,
+        "unit": "pieces",
+        "name": "bell peppers"
+      },
+      {
+        "amount": 1,
+        "unit": "piece",
+        "name": "red onion"
+      },
+      {
+        "amount": 1,
+        "unit": "tbsp",
+        "name": "fajita seasoning"
+      }
+    ],
+    "instructions": [
+      "Prepare and measure the ingredients; rinse grains or legumes and chop the vegetables.",
+      "Warm oil in a heavy pan over medium heat. Cook the aromatics and spices first, add the main ingredients with a splash of water, and cook until tender and fragrant.",
+      "Taste and adjust the seasoning. Finish with fresh herbs or lemon, then serve warm."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 490,
+      "protein_g": 38,
+      "carbohydrates_g": 56,
+      "fat_g": 13
+    },
+    "tags": [
+      "mexican",
+      "lunch",
+      "non-vegetarian",
+      "meal prep",
+      "protein-rich"
+    ],
+    "popularity": 810
+  },
+  {
+    "id": "fresh-guacamole",
+    "name": "Fresh Guacamole",
+    "description": "A home-cook-friendly mexican snack with balanced, satisfying flavors. Ready in about 15 minutes.",
+    "image": "assets/images/fresh-salad.jpg",
+    "cuisine": "Mexican",
+    "category": "Snack",
+    "dietary_type": "Vegan",
+    "prep_time": 15,
+    "cook_time": 0,
+    "total_time": 15,
+    "difficulty": "Easy",
+    "servings": 4,
+    "ingredients": [
+      {
+        "amount": 3,
+        "unit": "pieces",
+        "name": "ripe avocados"
+      },
+      {
+        "amount": 1,
+        "unit": "piece",
+        "name": "lime"
+      },
+      {
+        "amount": 0.25,
+        "unit": "cup",
+        "name": "red onion"
+      },
+      {
+        "amount": 0.25,
+        "unit": "cup",
+        "name": "cilantro"
+      },
+      {
+        "amount": 1,
+        "unit": "piece",
+        "name": "tomato"
+      }
+    ],
+    "instructions": [
+      "Halve and pit the avocados, then scoop the flesh into a bowl. Finely chop the onion, cilantro, and tomato.",
+      "Mash the avocado with lime juice and a pinch of salt, leaving some texture. Fold through the chopped vegetables.",
+      "Taste and adjust the lime and seasoning. Serve straight away with warm tortillas or vegetable sticks."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 180,
+      "protein_g": 3,
+      "carbohydrates_g": 11,
+      "fat_g": 15
+    },
+    "tags": [
+      "mexican",
+      "snack",
+      "vegan",
+      "no-cook",
+      "party"
+    ],
+    "popularity": 800
+  },
+  {
+    "id": "vegetable-enchiladas",
+    "name": "Roasted Vegetable Enchiladas",
+    "description": "A home-cook-friendly mexican dinner with balanced, satisfying flavors. Ready in about 55 minutes.",
+    "image": "assets/images/wood-fired-pizza.jpg",
+    "cuisine": "Mexican",
+    "category": "Dinner",
+    "dietary_type": "Vegetarian",
+    "prep_time": 25,
+    "cook_time": 30,
+    "total_time": 55,
+    "difficulty": "Moderate",
+    "servings": 4,
+    "ingredients": [
+      {
+        "amount": 8,
+        "unit": "pieces",
+        "name": "corn tortillas"
+      },
+      {
+        "amount": 2,
+        "unit": "cups",
+        "name": "roasted vegetables"
+      },
+      {
+        "amount": 1.5,
+        "unit": "cups",
+        "name": "enchilada sauce"
+      },
+      {
+        "amount": 1,
+        "unit": "cup",
+        "name": "black beans"
+      },
+      {
+        "amount": 1,
+        "unit": "cup",
+        "name": "cheddar cheese"
+      }
+    ],
+    "instructions": [
+      "Heat the oven to 200°C (400°F). Prepare the ingredients and lightly oil a suitable baking dish or tray.",
+      "Arrange the ingredients in the dish, season evenly, and bake until tender, golden, and cooked through. Check near the end of the stated cooking time.",
+      "Rest briefly, taste for seasoning, add the fresh garnish, and serve."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 430,
+      "protein_g": 20,
+      "carbohydrates_g": 54,
+      "fat_g": 15
+    },
+    "tags": [
+      "mexican",
+      "dinner",
+      "vegetarian",
+      "baked",
+      "family favorite"
+    ],
+    "popularity": 790
+  },
+  {
+    "id": "salsa-verde-eggs",
+    "name": "Salsa Verde Breakfast Eggs",
+    "description": "A home-cook-friendly mexican breakfast with balanced, satisfying flavors. Ready in about 25 minutes.",
+    "image": "assets/images/breakfast-board.jpg",
+    "cuisine": "Mexican",
+    "category": "Breakfast",
+    "dietary_type": "Vegetarian",
+    "prep_time": 10,
+    "cook_time": 15,
+    "total_time": 25,
+    "difficulty": "Easy",
+    "servings": 2,
+    "ingredients": [
+      {
+        "amount": 4,
+        "unit": "pieces",
+        "name": "eggs"
+      },
+      {
+        "amount": 0.75,
+        "unit": "cup",
+        "name": "salsa verde"
+      },
+      {
+        "amount": 2,
+        "unit": "pieces",
+        "name": "corn tortillas"
+      },
+      {
+        "amount": 0.25,
+        "unit": "cup",
+        "name": "cotija cheese"
+      },
+      {
+        "amount": 0.25,
+        "unit": "cup",
+        "name": "cilantro"
+      }
+    ],
+    "instructions": [
+      "Prepare and measure the ingredients; rinse grains or legumes and chop the vegetables.",
+      "Warm oil in a heavy pan over medium heat. Cook the aromatics and spices first, add the main ingredients with a splash of water, and cook until tender and fragrant.",
+      "Taste and adjust the seasoning. Finish with fresh herbs or lemon, then serve warm."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 320,
+      "protein_g": 19,
+      "carbohydrates_g": 25,
+      "fat_g": 16
+    },
+    "tags": [
+      "mexican",
+      "breakfast",
+      "vegetarian",
+      "high-protein",
+      "brunch"
+    ],
+    "popularity": 780
+  },
+  {
+    "id": "miso-ramen",
+    "name": "Weeknight Miso Ramen",
+    "description": "A home-cook-friendly japanese dinner with balanced, satisfying flavors. Ready in about 35 minutes.",
+    "image": "assets/images/hearty-soup.jpg",
+    "cuisine": "Japanese",
+    "category": "Dinner",
+    "dietary_type": "Vegetarian",
+    "prep_time": 15,
+    "cook_time": 20,
+    "total_time": 35,
+    "difficulty": "Moderate",
+    "servings": 2,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": "portions",
+        "name": "ramen noodles"
+      },
+      {
+        "amount": 4,
+        "unit": "cups",
+        "name": "vegetable stock"
+      },
+      {
+        "amount": 2,
+        "unit": "tbsp",
+        "name": "white miso"
+      },
+      {
+        "amount": 150,
+        "unit": "g",
+        "name": "shiitake mushrooms"
+      },
+      {
+        "amount": 2,
+        "unit": "pieces",
+        "name": "eggs"
+      }
+    ],
+    "instructions": [
+      "Rinse, drain, and prepare the ingredients. Measure the spices and keep the garnish separate.",
+      "Soften the aromatics in oil, stir in the spices and main ingredients, then add stock or water. Simmer gently until everything is cooked through and the sauce is flavorful.",
+      "Taste, adjust salt and acidity, and finish with the listed herbs or garnish before serving."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 430,
+      "protein_g": 19,
+      "carbohydrates_g": 61,
+      "fat_g": 13
+    },
+    "tags": [
+      "japanese",
+      "dinner",
+      "vegetarian",
+      "comfort food",
+      "quick"
+    ],
+    "popularity": 770
+  },
+  {
+    "id": "teriyaki-salmon",
+    "name": "Teriyaki Salmon Rice Bowl",
+    "description": "A home-cook-friendly japanese dinner with balanced, satisfying flavors. Ready in about 30 minutes.",
+    "image": "assets/images/grilled-plate.jpg",
+    "cuisine": "Japanese",
+    "category": "Dinner",
+    "dietary_type": "Pescatarian",
+    "prep_time": 15,
+    "cook_time": 15,
+    "total_time": 30,
+    "difficulty": "Easy",
+    "servings": 2,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": "pieces",
+        "name": "salmon fillets"
+      },
+      {
+        "amount": 1,
+        "unit": "cup",
+        "name": "cooked rice"
+      },
+      {
+        "amount": 2,
+        "unit": "tbsp",
+        "name": "soy sauce"
+      },
+      {
+        "amount": 1,
+        "unit": "tbsp",
+        "name": "honey"
+      },
+      {
+        "amount": 1,
+        "unit": "cup",
+        "name": "steamed broccoli"
+      }
+    ],
+    "instructions": [
+      "Prepare and measure the ingredients; rinse grains or legumes and chop the vegetables.",
+      "Warm oil in a heavy pan over medium heat. Cook the aromatics and spices first, add the main ingredients with a splash of water, and cook until tender and fragrant.",
+      "Taste and adjust the seasoning. Finish with fresh herbs or lemon, then serve warm."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 510,
+      "protein_g": 37,
+      "carbohydrates_g": 56,
+      "fat_g": 16
+    },
+    "tags": [
+      "japanese",
+      "dinner",
+      "pescatarian",
+      "omega-3",
+      "protein-rich"
+    ],
+    "popularity": 760
+  },
+  {
+    "id": "sushi-bowl",
+    "name": "Garden Sushi Bowl",
+    "description": "A home-cook-friendly japanese lunch with balanced, satisfying flavors. Ready in about 40 minutes.",
+    "image": "assets/images/harvest-bowl.jpg",
+    "cuisine": "Japanese",
+    "category": "Lunch",
+    "dietary_type": "Vegan",
+    "prep_time": 20,
+    "cook_time": 20,
+    "total_time": 40,
+    "difficulty": "Moderate",
+    "servings": 2,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": "cup",
+        "name": "sushi rice"
+      },
+      {
+        "amount": 1,
+        "unit": "piece",
+        "name": "avocado"
+      },
+      {
+        "amount": 0.5,
+        "unit": "piece",
+        "name": "cucumber"
+      },
+      {
+        "amount": 1,
+        "unit": "piece",
+        "name": "carrot"
+      },
+      {
+        "amount": 2,
+        "unit": "sheets",
+        "name": "nori"
+      }
+    ],
+    "instructions": [
+      "Rinse the sushi rice until the water runs clear, then cook it according to the package directions. Season lightly and let it cool until warm.",
+      "Slice the avocado and cucumber and cut the carrot into fine matchsticks. Tear the nori into small pieces.",
+      "Divide the rice between bowls, arrange the vegetables on top, and finish with nori and a little soy sauce or sesame dressing."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 390,
+      "protein_g": 9,
+      "carbohydrates_g": 70,
+      "fat_g": 8
+    },
+    "tags": [
+      "japanese",
+      "lunch",
+      "vegan",
+      "plant-based",
+      "meal prep"
+    ],
+    "popularity": 750
+  },
+  {
+    "id": "chicken-yakitori",
+    "name": "Chicken Yakitori Skewers",
+    "description": "A home-cook-friendly japanese dinner with balanced, satisfying flavors. Ready in about 35 minutes.",
+    "image": "assets/images/grilled-plate.jpg",
+    "cuisine": "Japanese",
+    "category": "Dinner",
+    "dietary_type": "Non-vegetarian",
+    "prep_time": 20,
+    "cook_time": 15,
+    "total_time": 35,
+    "difficulty": "Moderate",
+    "servings": 4,
+    "ingredients": [
+      {
+        "amount": 500,
+        "unit": "g",
+        "name": "chicken thighs"
+      },
+      {
+        "amount": 3,
+        "unit": "tbsp",
+        "name": "soy sauce"
+      },
+      {
+        "amount": 1,
+        "unit": "tbsp",
+        "name": "mirin"
+      },
+      {
+        "amount": 1,
+        "unit": "tbsp",
+        "name": "honey"
+      },
+      {
+        "amount": 2,
+        "unit": "pieces",
+        "name": "scallions"
+      }
+    ],
+    "instructions": [
+      "Prepare the ingredients and mix the oil, seasonings, and any marinade together.",
+      "Heat a grill or ridged pan to medium-high. Cook the ingredients in a single layer, turning as needed, until browned and fully cooked.",
+      "Rest briefly, finish with the fresh garnish or sauce, and serve warm."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 330,
+      "protein_g": 35,
+      "carbohydrates_g": 20,
+      "fat_g": 10
+    },
+    "tags": [
+      "japanese",
+      "dinner",
+      "non-vegetarian",
+      "grilled",
+      "protein-rich"
+    ],
+    "popularity": 740
+  },
+  {
+    "id": "greek-salad",
+    "name": "Classic Greek Salad",
+    "description": "A home-cook-friendly mediterranean lunch with balanced, satisfying flavors. Ready in about 15 minutes.",
+    "image": "assets/images/fresh-salad.jpg",
+    "cuisine": "Mediterranean",
+    "category": "Lunch",
+    "dietary_type": "Vegetarian",
+    "prep_time": 15,
+    "cook_time": 0,
+    "total_time": 15,
+    "difficulty": "Easy",
+    "servings": 4,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": "pieces",
+        "name": "cucumbers"
+      },
+      {
+        "amount": 3,
+        "unit": "pieces",
+        "name": "tomatoes"
+      },
+      {
+        "amount": 0.5,
+        "unit": "piece",
+        "name": "red onion"
+      },
+      {
+        "amount": 150,
+        "unit": "g",
+        "name": "feta"
+      },
+      {
+        "amount": 0.5,
+        "unit": "cup",
+        "name": "kalamata olives"
+      }
+    ],
+    "instructions": [
+      "Rinse and chop the produce. Cook any grains or other ingredients according to their package directions and let them drain well.",
+      "Prepare the dressing or sauce, then layer the cooked ingredients and fresh toppings in serving bowls or plates.",
+      "Season to taste, spoon over the sauce, and serve while the warm ingredients are still hot."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 280,
+      "protein_g": 9,
+      "carbohydrates_g": 18,
+      "fat_g": 20
+    },
+    "tags": [
+      "mediterranean",
+      "lunch",
+      "vegetarian",
+      "no-cook",
+      "gluten-free"
+    ],
+    "popularity": 730
+  },
+  {
+    "id": "hummus-bowl",
+    "name": "Lemon Hummus Grain Bowl",
+    "description": "A home-cook-friendly mediterranean lunch with balanced, satisfying flavors. Ready in about 40 minutes.",
+    "image": "assets/images/harvest-bowl.jpg",
+    "cuisine": "Mediterranean",
+    "category": "Lunch",
+    "dietary_type": "Vegan",
+    "prep_time": 20,
+    "cook_time": 20,
+    "total_time": 40,
+    "difficulty": "Moderate",
+    "servings": 2,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": "cup",
+        "name": "cooked quinoa"
+      },
+      {
+        "amount": 1,
+        "unit": "cup",
+        "name": "hummus"
+      },
+      {
+        "amount": 1,
+        "unit": "piece",
+        "name": "cucumber"
+      },
+      {
+        "amount": 1,
+        "unit": "cup",
+        "name": "cherry tomatoes"
+      },
+      {
+        "amount": 1,
+        "unit": "tbsp",
+        "name": "lemon juice"
+      }
+    ],
+    "instructions": [
+      "Rinse and chop the produce. Cook any grains or other ingredients according to their package directions and let them drain well.",
+      "Prepare the dressing or sauce, then layer the cooked ingredients and fresh toppings in serving bowls or plates.",
+      "Season to taste, spoon over the sauce, and serve while the warm ingredients are still hot."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 460,
+      "protein_g": 17,
+      "carbohydrates_g": 67,
+      "fat_g": 14
+    },
+    "tags": [
+      "mediterranean",
+      "lunch",
+      "vegan",
+      "meal prep",
+      "plant-based"
+    ],
+    "popularity": 720
+  },
+  {
+    "id": "shakshuka",
+    "name": "One-Pan Shakshuka",
+    "description": "A home-cook-friendly mediterranean breakfast with balanced, satisfying flavors. Ready in about 35 minutes.",
+    "image": "assets/images/spiced-curry.jpg",
+    "cuisine": "Mediterranean",
+    "category": "Breakfast",
+    "dietary_type": "Vegetarian",
+    "prep_time": 10,
+    "cook_time": 25,
+    "total_time": 35,
+    "difficulty": "Moderate",
+    "servings": 3,
+    "ingredients": [
+      {
+        "amount": 4,
+        "unit": "pieces",
+        "name": "eggs"
+      },
+      {
+        "amount": 1.5,
+        "unit": "cups",
+        "name": "crushed tomatoes"
+      },
+      {
+        "amount": 1,
+        "unit": "piece",
+        "name": "red bell pepper"
+      },
+      {
+        "amount": 0.5,
+        "unit": "cup",
+        "name": "onion"
+      },
+      {
+        "amount": 1,
+        "unit": "tsp",
+        "name": "cumin"
+      }
+    ],
+    "instructions": [
+      "Soften the onion and bell pepper in olive oil in a wide skillet. Stir in the cumin and cook briefly until fragrant.",
+      "Add the tomatoes and simmer until thickened. Make small wells, add the eggs, cover, and cook until the whites are set.",
+      "Finish with cilantro and serve directly from the pan with bread."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 290,
+      "protein_g": 16,
+      "carbohydrates_g": 25,
+      "fat_g": 14
+    },
+    "tags": [
+      "mediterranean",
+      "breakfast",
+      "vegetarian",
+      "one-pan",
+      "brunch"
+    ],
+    "popularity": 710
+  },
+  {
+    "id": "falafel-pita",
+    "name": "Herby Falafel Pita",
+    "description": "A home-cook-friendly middle eastern lunch with balanced, satisfying flavors. Ready in about 50 minutes.",
+    "image": "assets/images/harvest-bowl.jpg",
+    "cuisine": "Middle Eastern",
+    "category": "Lunch",
+    "dietary_type": "Vegan",
+    "prep_time": 25,
+    "cook_time": 25,
+    "total_time": 50,
+    "difficulty": "Moderate",
+    "servings": 4,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": "cups",
+        "name": "cooked chickpeas"
+      },
+      {
+        "amount": 4,
+        "unit": "pieces",
+        "name": "whole-wheat pita"
+      },
+      {
+        "amount": 0.5,
+        "unit": "cup",
+        "name": "parsley"
+      },
+      {
+        "amount": 0.5,
+        "unit": "cup",
+        "name": "plain yogurt"
+      },
+      {
+        "amount": 1,
+        "unit": "tsp",
+        "name": "ground cumin"
+      }
+    ],
+    "instructions": [
+      "Heat the oven to 200°C (400°F). Prepare the ingredients and lightly oil a suitable baking dish or tray.",
+      "Arrange the ingredients in the dish, season evenly, and bake until tender, golden, and cooked through. Check near the end of the stated cooking time.",
+      "Rest briefly, taste for seasoning, add the fresh garnish, and serve."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 410,
+      "protein_g": 16,
+      "carbohydrates_g": 58,
+      "fat_g": 13
+    },
+    "tags": [
+      "middle eastern",
+      "lunch",
+      "vegan",
+      "plant-based",
+      "high-fiber"
+    ],
+    "popularity": 700
+  },
+  {
+    "id": "lemon-herb-chicken",
+    "name": "Lemon Herb Roast Chicken",
+    "description": "A home-cook-friendly mediterranean dinner with balanced, satisfying flavors. Ready in about 60 minutes.",
+    "image": "assets/images/grilled-plate.jpg",
+    "cuisine": "Mediterranean",
+    "category": "Dinner",
+    "dietary_type": "Non-vegetarian",
+    "prep_time": 15,
+    "cook_time": 45,
+    "total_time": 60,
+    "difficulty": "Moderate",
+    "servings": 4,
+    "ingredients": [
+      {
+        "amount": 600,
+        "unit": "g",
+        "name": "chicken thighs"
+      },
+      {
+        "amount": 2,
+        "unit": "pieces",
+        "name": "lemons"
+      },
+      {
+        "amount": 2,
+        "unit": "tbsp",
+        "name": "olive oil"
+      },
+      {
+        "amount": 1,
+        "unit": "tbsp",
+        "name": "fresh rosemary"
+      },
+      {
+        "amount": 500,
+        "unit": "g",
+        "name": "baby potatoes"
+      }
+    ],
+    "instructions": [
+      "Heat the oven to 200°C (400°F). Prepare the ingredients and lightly oil a suitable baking dish or tray.",
+      "Arrange the ingredients in the dish, season evenly, and bake until tender, golden, and cooked through. Check near the end of the stated cooking time.",
+      "Rest briefly, taste for seasoning, add the fresh garnish, and serve."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 440,
+      "protein_g": 42,
+      "carbohydrates_g": 18,
+      "fat_g": 22
+    },
+    "tags": [
+      "mediterranean",
+      "dinner",
+      "non-vegetarian",
+      "roasted",
+      "protein-rich"
+    ],
+    "popularity": 690
+  },
+  {
+    "id": "green-curry",
+    "name": "Thai Green Vegetable Curry",
+    "description": "A home-cook-friendly thai dinner with balanced, satisfying flavors. Ready in about 40 minutes.",
+    "image": "assets/images/spiced-curry.jpg",
+    "cuisine": "Thai",
+    "category": "Dinner",
+    "dietary_type": "Vegan",
+    "prep_time": 15,
+    "cook_time": 25,
+    "total_time": 40,
+    "difficulty": "Moderate",
+    "servings": 4,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": "tbsp",
+        "name": "green curry paste"
+      },
+      {
+        "amount": 400,
+        "unit": "ml",
+        "name": "coconut milk"
+      },
+      {
+        "amount": 2,
+        "unit": "cups",
+        "name": "mixed vegetables"
+      },
+      {
+        "amount": 1,
+        "unit": "cup",
+        "name": "cooked rice"
+      },
+      {
+        "amount": 1,
+        "unit": "tbsp",
+        "name": "lime juice"
+      }
+    ],
+    "instructions": [
+      "Rinse, drain, and prepare the ingredients. Measure the spices and keep the garnish separate.",
+      "Soften the aromatics in oil, stir in the spices and main ingredients, then add stock or water. Simmer gently until everything is cooked through and the sauce is flavorful.",
+      "Taste, adjust salt and acidity, and finish with the listed herbs or garnish before serving."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 370,
+      "protein_g": 9,
+      "carbohydrates_g": 41,
+      "fat_g": 20
+    },
+    "tags": [
+      "thai",
+      "dinner",
+      "vegan",
+      "plant-based",
+      "one-pot"
+    ],
+    "popularity": 680
+  },
+  {
+    "id": "pad-thai",
+    "name": "Balanced Chicken Pad Thai",
+    "description": "A home-cook-friendly thai dinner with balanced, satisfying flavors. Ready in about 40 minutes.",
+    "image": "assets/images/pasta-bowl.jpg",
+    "cuisine": "Thai",
+    "category": "Dinner",
+    "dietary_type": "Non-vegetarian",
+    "prep_time": 25,
+    "cook_time": 15,
+    "total_time": 40,
+    "difficulty": "Moderate",
+    "servings": 3,
+    "ingredients": [
+      {
+        "amount": 200,
+        "unit": "g",
+        "name": "rice noodles"
+      },
+      {
+        "amount": 300,
+        "unit": "g",
+        "name": "chicken breast"
+      },
+      {
+        "amount": 2,
+        "unit": "pieces",
+        "name": "eggs"
+      },
+      {
+        "amount": 2,
+        "unit": "tbsp",
+        "name": "tamarind paste"
+      },
+      {
+        "amount": 0.25,
+        "unit": "cup",
+        "name": "peanuts"
+      }
+    ],
+    "instructions": [
+      "Prepare all ingredients before heating the pan; stir together the sauce ingredients in a small bowl.",
+      "Heat a wok or wide skillet until hot. Add oil, cook the aromatics briefly, then stir-fry the remaining ingredients in batches until just tender and fully cooked.",
+      "Return everything to the pan, toss with the sauce until glossy, and serve immediately."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 470,
+      "protein_g": 28,
+      "carbohydrates_g": 62,
+      "fat_g": 12
+    },
+    "tags": [
+      "thai",
+      "dinner",
+      "non-vegetarian",
+      "popular",
+      "stir-fry"
+    ],
+    "popularity": 670
+  },
+  {
+    "id": "tom-yum-soup",
+    "name": "Bright Tom Yum Soup",
+    "description": "A home-cook-friendly thai lunch with balanced, satisfying flavors. Ready in about 35 minutes.",
+    "image": "assets/images/hearty-soup.jpg",
+    "cuisine": "Thai",
+    "category": "Lunch",
+    "dietary_type": "Pescatarian",
+    "prep_time": 15,
+    "cook_time": 20,
+    "total_time": 35,
+    "difficulty": "Moderate",
+    "servings": 4,
+    "ingredients": [
+      {
+        "amount": 300,
+        "unit": "g",
+        "name": "shrimp"
+      },
+      {
+        "amount": 4,
+        "unit": "cups",
+        "name": "vegetable stock"
+      },
+      {
+        "amount": 150,
+        "unit": "g",
+        "name": "mushrooms"
+      },
+      {
+        "amount": 2,
+        "unit": "tbsp",
+        "name": "lime juice"
+      },
+      {
+        "amount": 1,
+        "unit": "tbsp",
+        "name": "tom yum paste"
+      }
+    ],
+    "instructions": [
+      "Rinse, drain, and prepare the ingredients. Measure the spices and keep the garnish separate.",
+      "Soften the aromatics in oil, stir in the spices and main ingredients, then add stock or water. Simmer gently until everything is cooked through and the sauce is flavorful.",
+      "Taste, adjust salt and acidity, and finish with the listed herbs or garnish before serving."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 210,
+      "protein_g": 22,
+      "carbohydrates_g": 18,
+      "fat_g": 5
+    },
+    "tags": [
+      "thai",
+      "lunch",
+      "pescatarian",
+      "light",
+      "gluten-free"
+    ],
+    "popularity": 660
+  },
+  {
+    "id": "ratatouille",
+    "name": "Provençal Ratatouille",
+    "description": "A home-cook-friendly french dinner with balanced, satisfying flavors. Ready in about 70 minutes.",
+    "image": "assets/images/harvest-bowl.jpg",
+    "cuisine": "French",
+    "category": "Dinner",
+    "dietary_type": "Vegan",
+    "prep_time": 25,
+    "cook_time": 45,
+    "total_time": 70,
+    "difficulty": "Advanced",
+    "servings": 4,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": "piece",
+        "name": "eggplant"
+      },
+      {
+        "amount": 1,
+        "unit": "piece",
+        "name": "zucchini"
+      },
+      {
+        "amount": 2,
+        "unit": "pieces",
+        "name": "tomatoes"
+      },
+      {
+        "amount": 1,
+        "unit": "piece",
+        "name": "bell pepper"
+      },
+      {
+        "amount": 2,
+        "unit": "tbsp",
+        "name": "olive oil"
+      }
+    ],
+    "instructions": [
+      "Heat the oven to 200°C (400°F). Prepare the ingredients and lightly oil a suitable baking dish or tray.",
+      "Arrange the ingredients in the dish, season evenly, and bake until tender, golden, and cooked through. Check near the end of the stated cooking time.",
+      "Rest briefly, taste for seasoning, add the fresh garnish, and serve."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 240,
+      "protein_g": 7,
+      "carbohydrates_g": 32,
+      "fat_g": 10
+    },
+    "tags": [
+      "french",
+      "dinner",
+      "vegan",
+      "plant-based",
+      "seasonal"
+    ],
+    "popularity": 650
+  },
+  {
+    "id": "blueberry-crepes",
+    "name": "Simple Blueberry Crêpes",
+    "description": "A home-cook-friendly french breakfast with balanced, satisfying flavors. Ready in about 35 minutes.",
+    "image": "assets/images/breakfast-board.jpg",
+    "cuisine": "French",
+    "category": "Breakfast",
+    "dietary_type": "Vegetarian",
+    "prep_time": 15,
+    "cook_time": 20,
+    "total_time": 35,
+    "difficulty": "Moderate",
+    "servings": 4,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": "cup",
+        "name": "all-purpose flour"
+      },
+      {
+        "amount": 2,
+        "unit": "pieces",
+        "name": "eggs"
+      },
+      {
+        "amount": 1.25,
+        "unit": "cups",
+        "name": "milk"
+      },
+      {
+        "amount": 1,
+        "unit": "cup",
+        "name": "blueberries"
+      },
+      {
+        "amount": 1,
+        "unit": "tbsp",
+        "name": "butter"
+      }
+    ],
+    "instructions": [
+      "Whisk the dry ingredients together. In a separate bowl, whisk the wet ingredients, then combine just until no dry streaks remain.",
+      "Heat a lightly oiled skillet over medium heat. Cook small portions until bubbles appear, flip once, and cook the other side until golden.",
+      "Serve warm with the listed toppings, adding them to taste."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 260,
+      "protein_g": 9,
+      "carbohydrates_g": 38,
+      "fat_g": 8
+    },
+    "tags": [
+      "french",
+      "breakfast",
+      "vegetarian",
+      "brunch",
+      "sweet"
+    ],
+    "popularity": 640
+  },
+  {
+    "id": "french-onion-soup",
+    "name": "Slow-Cooked French Onion Soup",
+    "description": "A home-cook-friendly french lunch with balanced, satisfying flavors. Ready in about 65 minutes.",
+    "image": "assets/images/hearty-soup.jpg",
+    "cuisine": "French",
+    "category": "Lunch",
+    "dietary_type": "Vegetarian",
+    "prep_time": 15,
+    "cook_time": 50,
+    "total_time": 65,
+    "difficulty": "Advanced",
+    "servings": 4,
+    "ingredients": [
+      {
+        "amount": 4,
+        "unit": "pieces",
+        "name": "yellow onions"
+      },
+      {
+        "amount": 4,
+        "unit": "cups",
+        "name": "vegetable stock"
+      },
+      {
+        "amount": 4,
+        "unit": "slices",
+        "name": "baguette"
+      },
+      {
+        "amount": 100,
+        "unit": "g",
+        "name": "gruyere"
+      },
+      {
+        "amount": 2,
+        "unit": "tbsp",
+        "name": "butter"
+      }
+    ],
+    "instructions": [
+      "Rinse, drain, and prepare the ingredients. Measure the spices and keep the garnish separate.",
+      "Soften the aromatics in oil, stir in the spices and main ingredients, then add stock or water. Simmer gently until everything is cooked through and the sauce is flavorful.",
+      "Taste, adjust salt and acidity, and finish with the listed herbs or garnish before serving."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 330,
+      "protein_g": 14,
+      "carbohydrates_g": 38,
+      "fat_g": 13
+    },
+    "tags": [
+      "french",
+      "lunch",
+      "vegetarian",
+      "comfort food",
+      "slow-simmered"
+    ],
+    "popularity": 630
+  },
+  {
+    "id": "classic-turkey-burger",
+    "name": "Classic Turkey Burger",
+    "description": "A home-cook-friendly american dinner with balanced, satisfying flavors. Ready in about 30 minutes.",
+    "image": "assets/images/garden-burger.jpg",
+    "cuisine": "American",
+    "category": "Dinner",
+    "dietary_type": "Non-vegetarian",
+    "prep_time": 15,
+    "cook_time": 15,
+    "total_time": 30,
+    "difficulty": "Easy",
+    "servings": 4,
+    "ingredients": [
+      {
+        "amount": 500,
+        "unit": "g",
+        "name": "ground turkey"
+      },
+      {
+        "amount": 4,
+        "unit": "pieces",
+        "name": "burger buns"
+      },
+      {
+        "amount": 1,
+        "unit": "piece",
+        "name": "egg"
+      },
+      {
+        "amount": 1,
+        "unit": "tsp",
+        "name": "garlic powder"
+      },
+      {
+        "amount": 1,
+        "unit": "cup",
+        "name": "lettuce"
+      }
+    ],
+    "instructions": [
+      "Prepare the ingredients and mix the oil, seasonings, and any marinade together.",
+      "Heat a grill or ridged pan to medium-high. Cook the ingredients in a single layer, turning as needed, until browned and fully cooked.",
+      "Rest briefly, finish with the fresh garnish or sauce, and serve warm."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 420,
+      "protein_g": 34,
+      "carbohydrates_g": 39,
+      "fat_g": 15
+    },
+    "tags": [
+      "american",
+      "dinner",
+      "non-vegetarian",
+      "grilled",
+      "protein-rich"
+    ],
+    "popularity": 620
+  },
+  {
+    "id": "blueberry-pancakes",
+    "name": "Fluffy Blueberry Pancakes",
+    "description": "A home-cook-friendly american breakfast with balanced, satisfying flavors. Ready in about 25 minutes.",
+    "image": "assets/images/breakfast-board.jpg",
+    "cuisine": "American",
+    "category": "Breakfast",
+    "dietary_type": "Vegetarian",
+    "prep_time": 10,
+    "cook_time": 15,
+    "total_time": 25,
+    "difficulty": "Easy",
+    "servings": 4,
+    "ingredients": [
+      {
+        "amount": 1.5,
+        "unit": "cups",
+        "name": "all-purpose flour"
+      },
+      {
+        "amount": 1,
+        "unit": "cup",
+        "name": "milk"
+      },
+      {
+        "amount": 1,
+        "unit": "piece",
+        "name": "egg"
+      },
+      {
+        "amount": 1,
+        "unit": "cup",
+        "name": "blueberries"
+      },
+      {
+        "amount": 1,
+        "unit": "tbsp",
+        "name": "maple syrup"
+      }
+    ],
+    "instructions": [
+      "Whisk the flour with the other dry ingredients. In another bowl whisk the milk and egg, then stir the two mixtures together just until combined.",
+      "Fold in the blueberries. Cook small ladles of batter in a lightly buttered skillet over medium heat, turning when bubbles appear.",
+      "Serve warm with maple syrup and extra blueberries if you like."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 290,
+      "protein_g": 10,
+      "carbohydrates_g": 49,
+      "fat_g": 7
+    },
+    "tags": [
+      "american",
+      "breakfast",
+      "vegetarian",
+      "brunch",
+      "family favorite"
+    ],
+    "popularity": 610
+  },
+  {
+    "id": "bbq-pulled-chicken",
+    "name": "Easy BBQ Pulled Chicken",
+    "description": "A home-cook-friendly american dinner with balanced, satisfying flavors. Ready in about 50 minutes.",
+    "image": "assets/images/grilled-plate.jpg",
+    "cuisine": "American",
+    "category": "Dinner",
+    "dietary_type": "Non-vegetarian",
+    "prep_time": 15,
+    "cook_time": 35,
+    "total_time": 50,
+    "difficulty": "Moderate",
+    "servings": 4,
+    "ingredients": [
+      {
+        "amount": 600,
+        "unit": "g",
+        "name": "chicken breast"
+      },
+      {
+        "amount": 1,
+        "unit": "cup",
+        "name": "tomato barbecue sauce"
+      },
+      {
+        "amount": 4,
+        "unit": "pieces",
+        "name": "whole-grain rolls"
+      },
+      {
+        "amount": 0.5,
+        "unit": "piece",
+        "name": "red onion"
+      },
+      {
+        "amount": 1,
+        "unit": "tbsp",
+        "name": "apple cider vinegar"
+      }
+    ],
+    "instructions": [
+      "Rinse, drain, and prepare the ingredients. Measure the spices and keep the garnish separate.",
+      "Soften the aromatics in oil, stir in the spices and main ingredients, then add stock or water. Simmer gently until everything is cooked through and the sauce is flavorful.",
+      "Taste, adjust salt and acidity, and finish with the listed herbs or garnish before serving."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 390,
+      "protein_g": 38,
+      "carbohydrates_g": 36,
+      "fat_g": 11
+    },
+    "tags": [
+      "american",
+      "dinner",
+      "non-vegetarian",
+      "meal prep",
+      "weeknight"
+    ],
+    "popularity": 600
+  },
+  {
+    "id": "cobb-salad",
+    "name": "Garden Cobb Salad",
+    "description": "A home-cook-friendly american lunch with balanced, satisfying flavors. Ready in about 35 minutes.",
+    "image": "assets/images/fresh-salad.jpg",
+    "cuisine": "American",
+    "category": "Lunch",
+    "dietary_type": "Non-vegetarian",
+    "prep_time": 20,
+    "cook_time": 15,
+    "total_time": 35,
+    "difficulty": "Moderate",
+    "servings": 2,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": "cups",
+        "name": "romaine lettuce"
+      },
+      {
+        "amount": 2,
+        "unit": "pieces",
+        "name": "eggs"
+      },
+      {
+        "amount": 150,
+        "unit": "g",
+        "name": "chicken breast"
+      },
+      {
+        "amount": 0.5,
+        "unit": "piece",
+        "name": "avocado"
+      },
+      {
+        "amount": 0.25,
+        "unit": "cup",
+        "name": "blue cheese"
+      }
+    ],
+    "instructions": [
+      "Rinse and chop the produce. Cook any grains or other ingredients according to their package directions and let them drain well.",
+      "Prepare the dressing or sauce, then layer the cooked ingredients and fresh toppings in serving bowls or plates.",
+      "Season to taste, spoon over the sauce, and serve while the warm ingredients are still hot."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 470,
+      "protein_g": 34,
+      "carbohydrates_g": 20,
+      "fat_g": 29
+    },
+    "tags": [
+      "american",
+      "lunch",
+      "non-vegetarian",
+      "high-protein",
+      "gluten-free"
+    ],
+    "popularity": 590
+  },
+  {
+    "id": "vegetable-fried-rice",
+    "name": "Everyday Vegetable Fried Rice",
+    "description": "A home-cook-friendly chinese dinner with balanced, satisfying flavors. Ready in about 27 minutes.",
+    "image": "assets/images/harvest-bowl.jpg",
+    "cuisine": "Chinese",
+    "category": "Dinner",
+    "dietary_type": "Vegan",
+    "prep_time": 15,
+    "cook_time": 12,
+    "total_time": 27,
+    "difficulty": "Easy",
+    "servings": 4,
+    "ingredients": [
+      {
+        "amount": 3,
+        "unit": "cups",
+        "name": "cooked rice"
+      },
+      {
+        "amount": 1,
+        "unit": "cup",
+        "name": "peas and carrots"
+      },
+      {
+        "amount": 2,
+        "unit": "pieces",
+        "name": "scallions"
+      },
+      {
+        "amount": 2,
+        "unit": "tbsp",
+        "name": "soy sauce"
+      },
+      {
+        "amount": 1,
+        "unit": "tbsp",
+        "name": "sesame oil"
+      }
+    ],
+    "instructions": [
+      "Prepare all ingredients before heating the pan; stir together the sauce ingredients in a small bowl.",
+      "Heat a wok or wide skillet until hot. Add oil, cook the aromatics briefly, then stir-fry the remaining ingredients in batches until just tender and fully cooked.",
+      "Return everything to the pan, toss with the sauce until glossy, and serve immediately."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 360,
+      "protein_g": 9,
+      "carbohydrates_g": 60,
+      "fat_g": 9
+    },
+    "tags": [
+      "chinese",
+      "dinner",
+      "vegan",
+      "quick",
+      "one-pan"
+    ],
+    "popularity": 580
+  },
+  {
+    "id": "ginger-garlic-dumplings",
+    "name": "Ginger Garlic Vegetable Dumplings",
+    "description": "A home-cook-friendly chinese snack with balanced, satisfying flavors. Ready in about 47 minutes.",
+    "image": "assets/images/harvest-bowl.jpg",
+    "cuisine": "Chinese",
+    "category": "Snack",
+    "dietary_type": "Vegan",
+    "prep_time": 35,
+    "cook_time": 12,
+    "total_time": 47,
+    "difficulty": "Moderate",
+    "servings": 4,
+    "ingredients": [
+      {
+        "amount": 24,
+        "unit": "pieces",
+        "name": "dumpling wrappers"
+      },
+      {
+        "amount": 2,
+        "unit": "cups",
+        "name": "shredded cabbage"
+      },
+      {
+        "amount": 1,
+        "unit": "piece",
+        "name": "carrot"
+      },
+      {
+        "amount": 1,
+        "unit": "tbsp",
+        "name": "fresh ginger"
+      },
+      {
+        "amount": 2,
+        "unit": "tbsp",
+        "name": "soy sauce"
+      }
+    ],
+    "instructions": [
+      "Prepare the ingredients and line a steamer basket if needed. Bring a few centimetres of water to a steady simmer.",
+      "Arrange the ingredients in the steamer without crowding. Cover and steam until tender and cooked through, checking the stated cooking time.",
+      "Carefully remove from the steamer, season or garnish as listed, and serve warm."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 280,
+      "protein_g": 10,
+      "carbohydrates_g": 46,
+      "fat_g": 6
+    },
+    "tags": [
+      "chinese",
+      "snack",
+      "vegan",
+      "steamed",
+      "plant-based"
+    ],
+    "popularity": 570
+  },
+  {
+    "id": "mapo-tofu",
+    "name": "Gentle Mapo Tofu",
+    "description": "A home-cook-friendly chinese dinner with balanced, satisfying flavors. Ready in about 35 minutes.",
+    "image": "assets/images/spiced-curry.jpg",
+    "cuisine": "Chinese",
+    "category": "Dinner",
+    "dietary_type": "Vegetarian",
+    "prep_time": 15,
+    "cook_time": 20,
+    "total_time": 35,
+    "difficulty": "Moderate",
+    "servings": 3,
+    "ingredients": [
+      {
+        "amount": 400,
+        "unit": "g",
+        "name": "firm tofu"
+      },
+      {
+        "amount": 1,
+        "unit": "tbsp",
+        "name": "chili bean paste"
+      },
+      {
+        "amount": 1,
+        "unit": "cup",
+        "name": "vegetable stock"
+      },
+      {
+        "amount": 1,
+        "unit": "tbsp",
+        "name": "soy sauce"
+      },
+      {
+        "amount": 1,
+        "unit": "tsp",
+        "name": "cornstarch"
+      }
+    ],
+    "instructions": [
+      "Prepare and measure the ingredients; rinse grains or legumes and chop the vegetables.",
+      "Warm oil in a heavy pan over medium heat. Cook the aromatics and spices first, add the main ingredients with a splash of water, and cook until tender and fragrant.",
+      "Taste and adjust the seasoning. Finish with fresh herbs or lemon, then serve warm."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 340,
+      "protein_g": 20,
+      "carbohydrates_g": 22,
+      "fat_g": 20
+    },
+    "tags": [
+      "chinese",
+      "dinner",
+      "vegetarian",
+      "high-protein",
+      "weeknight"
+    ],
+    "popularity": 560
+  },
+  {
+    "id": "vegetable-bibimbap",
+    "name": "Colorful Vegetable Bibimbap",
+    "description": "A home-cook-friendly korean dinner with balanced, satisfying flavors. Ready in about 45 minutes.",
+    "image": "assets/images/harvest-bowl.jpg",
+    "cuisine": "Korean",
+    "category": "Dinner",
+    "dietary_type": "Vegetarian",
+    "prep_time": 25,
+    "cook_time": 20,
+    "total_time": 45,
+    "difficulty": "Moderate",
+    "servings": 2,
+    "ingredients": [
+      {
+        "amount": 1.5,
+        "unit": "cups",
+        "name": "cooked rice"
+      },
+      {
+        "amount": 1,
+        "unit": "cup",
+        "name": "spinach"
+      },
+      {
+        "amount": 1,
+        "unit": "piece",
+        "name": "carrot"
+      },
+      {
+        "amount": 1,
+        "unit": "piece",
+        "name": "zucchini"
+      },
+      {
+        "amount": 2,
+        "unit": "pieces",
+        "name": "eggs"
+      }
+    ],
+    "instructions": [
+      "Rinse and chop the produce. Cook any grains or other ingredients according to their package directions and let them drain well.",
+      "Prepare the dressing or sauce, then layer the cooked ingredients and fresh toppings in serving bowls or plates.",
+      "Season to taste, spoon over the sauce, and serve while the warm ingredients are still hot."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 450,
+      "protein_g": 16,
+      "carbohydrates_g": 70,
+      "fat_g": 12
+    },
+    "tags": [
+      "korean",
+      "dinner",
+      "vegetarian",
+      "balanced",
+      "meal prep"
+    ],
+    "popularity": 550
+  },
+  {
+    "id": "beef-bulgogi-bowl",
+    "name": "Weeknight Beef Bulgogi Bowl",
+    "description": "A home-cook-friendly korean dinner with balanced, satisfying flavors. Ready in about 32 minutes.",
+    "image": "assets/images/grilled-plate.jpg",
+    "cuisine": "Korean",
+    "category": "Dinner",
+    "dietary_type": "Non-vegetarian",
+    "prep_time": 20,
+    "cook_time": 12,
+    "total_time": 32,
+    "difficulty": "Moderate",
+    "servings": 3,
+    "ingredients": [
+      {
+        "amount": 400,
+        "unit": "g",
+        "name": "lean beef"
+      },
+      {
+        "amount": 2,
+        "unit": "cups",
+        "name": "cooked rice"
+      },
+      {
+        "amount": 2,
+        "unit": "tbsp",
+        "name": "soy sauce"
+      },
+      {
+        "amount": 1,
+        "unit": "piece",
+        "name": "pear"
+      },
+      {
+        "amount": 1,
+        "unit": "tbsp",
+        "name": "sesame oil"
+      }
+    ],
+    "instructions": [
+      "Prepare all ingredients before heating the pan; stir together the sauce ingredients in a small bowl.",
+      "Heat a wok or wide skillet until hot. Add oil, cook the aromatics briefly, then stir-fry the remaining ingredients in batches until just tender and fully cooked.",
+      "Return everything to the pan, toss with the sauce until glossy, and serve immediately."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 480,
+      "protein_g": 34,
+      "carbohydrates_g": 55,
+      "fat_g": 14
+    },
+    "tags": [
+      "korean",
+      "dinner",
+      "non-vegetarian",
+      "protein-rich",
+      "quick"
+    ],
+    "popularity": 540
+  },
+  {
+    "id": "red-lentil-soup",
+    "name": "Middle Eastern Red Lentil Soup",
+    "description": "A home-cook-friendly middle eastern lunch with balanced, satisfying flavors. Ready in about 40 minutes.",
+    "image": "assets/images/hearty-soup.jpg",
+    "cuisine": "Middle Eastern",
+    "category": "Lunch",
+    "dietary_type": "Vegan",
+    "prep_time": 10,
+    "cook_time": 30,
+    "total_time": 40,
+    "difficulty": "Moderate",
+    "servings": 4,
+    "ingredients": [
+      {
+        "amount": 1.5,
+        "unit": "cups",
+        "name": "red lentils"
+      },
+      {
+        "amount": 1,
+        "unit": "piece",
+        "name": "carrot"
+      },
+      {
+        "amount": 1,
+        "unit": "piece",
+        "name": "onion"
+      },
+      {
+        "amount": 1,
+        "unit": "tsp",
+        "name": "ground cumin"
+      },
+      {
+        "amount": 5,
+        "unit": "cups",
+        "name": "vegetable stock"
+      }
+    ],
+    "instructions": [
+      "Rinse, drain, and prepare the ingredients. Measure the spices and keep the garnish separate.",
+      "Soften the aromatics in oil, stir in the spices and main ingredients, then add stock or water. Simmer gently until everything is cooked through and the sauce is flavorful.",
+      "Taste, adjust salt and acidity, and finish with the listed herbs or garnish before serving."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 270,
+      "protein_g": 16,
+      "carbohydrates_g": 43,
+      "fat_g": 5
+    },
+    "tags": [
+      "middle eastern",
+      "lunch",
+      "vegan",
+      "high-fiber",
+      "one-pot"
+    ],
+    "popularity": 530
+  },
+  {
+    "id": "tabbouleh-salad",
+    "name": "Fresh Parsley Tabbouleh",
+    "description": "A home-cook-friendly middle eastern lunch with balanced, satisfying flavors. Ready in about 40 minutes.",
+    "image": "assets/images/fresh-salad.jpg",
+    "cuisine": "Middle Eastern",
+    "category": "Lunch",
+    "dietary_type": "Vegan",
+    "prep_time": 25,
+    "cook_time": 15,
+    "total_time": 40,
+    "difficulty": "Moderate",
+    "servings": 4,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": "cup",
+        "name": "bulgur wheat"
+      },
+      {
+        "amount": 2,
+        "unit": "cups",
+        "name": "parsley"
+      },
+      {
+        "amount": 1,
+        "unit": "cup",
+        "name": "tomatoes"
+      },
+      {
+        "amount": 0.5,
+        "unit": "cup",
+        "name": "cucumber"
+      },
+      {
+        "amount": 2,
+        "unit": "tbsp",
+        "name": "lemon juice"
+      }
+    ],
+    "instructions": [
+      "Rinse and chop the produce. Cook any grains or other ingredients according to their package directions and let them drain well.",
+      "Prepare the dressing or sauce, then layer the cooked ingredients and fresh toppings in serving bowls or plates.",
+      "Season to taste, spoon over the sauce, and serve while the warm ingredients are still hot."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 230,
+      "protein_g": 7,
+      "carbohydrates_g": 41,
+      "fat_g": 7
+    },
+    "tags": [
+      "middle eastern",
+      "lunch",
+      "vegan",
+      "fresh",
+      "plant-based"
+    ],
+    "popularity": 520
+  },
+  {
+    "id": "chocolate-date-bites",
+    "name": "No-Bake Chocolate Date Bites",
+    "description": "A home-cook-friendly international dessert with balanced, satisfying flavors. Ready in about 15 minutes.",
+    "image": "assets/images/breakfast-board.jpg",
+    "cuisine": "International",
+    "category": "Dessert",
+    "dietary_type": "Vegan",
+    "prep_time": 15,
+    "cook_time": 0,
+    "total_time": 15,
+    "difficulty": "Easy",
+    "servings": 12,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": "cup",
+        "name": "soft dates"
+      },
+      {
+        "amount": 0.75,
+        "unit": "cup",
+        "name": "rolled oats"
+      },
+      {
+        "amount": 2,
+        "unit": "tbsp",
+        "name": "cocoa powder"
+      },
+      {
+        "amount": 2,
+        "unit": "tbsp",
+        "name": "almond butter"
+      },
+      {
+        "amount": 1,
+        "unit": "tbsp",
+        "name": "chia seeds"
+      }
+    ],
+    "instructions": [
+      "Prepare the ingredients, reserving a little of the liquid and garnish for finishing.",
+      "Blend the ingredients with the seasonings until smooth, adding the reserved liquid a little at a time to reach the consistency you like.",
+      "Taste and adjust the seasoning. Finish with the garnish and serve, or chill briefly if preferred."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 150,
+      "protein_g": 4,
+      "carbohydrates_g": 21,
+      "fat_g": 7
+    },
+    "tags": [
+      "international",
+      "dessert",
+      "vegan",
+      "no-bake",
+      "snack"
+    ],
+    "popularity": 510
+  },
+  {
+    "id": "mango-yogurt-parfait",
+    "name": "Mango Yogurt Parfait",
+    "description": "A home-cook-friendly international breakfast with balanced, satisfying flavors. Ready in about 10 minutes.",
+    "image": "assets/images/breakfast-board.jpg",
+    "cuisine": "International",
+    "category": "Breakfast",
+    "dietary_type": "Vegetarian",
+    "prep_time": 10,
+    "cook_time": 0,
+    "total_time": 10,
+    "difficulty": "Easy",
+    "servings": 2,
+    "ingredients": [
+      {
+        "amount": 1.5,
+        "unit": "cups",
+        "name": "plain Greek yogurt"
+      },
+      {
+        "amount": 1,
+        "unit": "piece",
+        "name": "ripe mango"
+      },
+      {
+        "amount": 0.5,
+        "unit": "cup",
+        "name": "granola"
+      },
+      {
+        "amount": 1,
+        "unit": "tbsp",
+        "name": "honey"
+      },
+      {
+        "amount": 1,
+        "unit": "tbsp",
+        "name": "pumpkin seeds"
+      }
+    ],
+    "instructions": [
+      "Rinse and chop the produce. Cook any grains or other ingredients according to their package directions and let them drain well.",
+      "Prepare the dressing or sauce, then layer the cooked ingredients and fresh toppings in serving bowls or plates.",
+      "Season to taste, spoon over the sauce, and serve while the warm ingredients are still hot."
+    ],
+    "nutrition_per_serving_estimate": {
+      "calories": 280,
+      "protein_g": 15,
+      "carbohydrates_g": 42,
+      "fat_g": 6
+    },
+    "tags": [
+      "international",
+      "breakfast",
+      "vegetarian",
+      "no-cook",
+      "quick"
+    ],
+    "popularity": 500
+  }
+]
